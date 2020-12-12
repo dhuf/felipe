@@ -36,4 +36,4 @@ menu:
   main:
   - url: https://www.soundcloud.com
     name: Soundcloud
-    weight: 2
+    weight: 1
