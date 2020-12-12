@@ -34,6 +34,6 @@ params:
   recent_posts_number: 2
 menu:
   main:
-  - url: www.soundcloud.com
+  - url: https://www.soundcloud.com
     name: Soundcloud
     weight: 2
