@@ -1,6 +1,6 @@
 ---
 title: 'Felipe '
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/Victor_Hugo-Hunchback.jpg"
 description: Music is all around
 
 ---
